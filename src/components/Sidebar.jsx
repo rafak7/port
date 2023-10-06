@@ -5,6 +5,7 @@ import Avatar from '../img/port.jpg'
 import "../styles/components/sidebar.sass"
 
 
+
 const Sidebar = () => {
   return ( 
   <aside id="sidebar">
